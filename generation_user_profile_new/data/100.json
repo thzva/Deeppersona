@@ -1,0 +1,395 @@
+{
+  "Career and Work Identity": {
+    "Business": {
+      "Strategies": {}
+    },
+    "Client": {
+      "UserPreferences": {},
+      "UserProfileAttributes": {}
+    },
+    "Company": {
+      "Industry": {},
+      "RevenueMetrics": {},
+      "Type": {}
+    },
+    "CompanyCulture": {
+      "Type": {}
+    },
+    "Experience": {
+      "Attributes": {},
+      "Salesforce": {}
+    },
+    "Goals": {
+      "FinancialAttributes": {},
+      "GoalsAndAspirations": {}
+    },
+    "Industry": {
+      "Expertise": {},
+      "TechProficiency": {}
+    },
+    "JobRole": {
+      "LocationPreferences": {},
+      "Responsibilities": {}
+    },
+    "Occupation": {
+      "Service": {}
+    },
+    "Organization": {
+      "Category": {},
+      "Guidelines": {},
+      "Preferences": {}
+    },
+    "PersonalGoals": {
+      "Goals": {},
+      "Meetings": {}
+    },
+    "PreviousExperience": {
+      "UserLevel": {}
+    },
+    "Profession": {
+      "PersonalBackgroundAttributes": {},
+      "ProfessionalAttributes": {},
+      "UserProfileAttributes": {}
+    },
+    "ProfessionalField": {
+      "Experience": {},
+      "Industry": {},
+      "Role": {}
+    },
+    "Role": {
+      "Background": {},
+      "CommunicationStyle": {},
+      "Contract": {},
+      "Industry": {},
+      "positionTitle": {}
+    },
+    "Skills": {
+      "TechnicalAttributes": {},
+      "UserProfileAttributes": {}
+    },
+    "Team": {
+      "dynamics": {}
+    },
+    "Technology": {
+      "Type": {}
+    },
+    "User": {
+      "BusinessContext": {},
+      "CampaignAttributes": {},
+      "UserAttributes": {}
+    },
+    "WorkEnvironment": {
+      "ContentOrganization": {},
+      "UserPreferences": {}
+    }
+  },
+  "Core Values, Beliefs, and Philosophy": {
+    "Personal": {
+      "ForgivenessLevel": {},
+      "PersonalAttributes": {}
+    },
+    "Philosophical Beliefs": {
+      "AnimalConsumption": {}
+    },
+    "PoliticalIdeology": {
+      "Views": {}
+    },
+    "Spirituality": {
+      "Personal Development": {}
+    },
+    "Sustainability": {
+      "Attachment": {}
+    }
+  },
+  "Cultural and Social Context": {
+    "Attitudes": {
+      "TowardsDrugs": {}
+    },
+    "Audience": {
+      "InvestorType": {}
+    },
+    "Communication": {
+      "Style": {}
+    },
+    "Community": {
+      "UserCharacteristics": {}
+    },
+    "CompanyCulture": {
+      "Culture": {}
+    },
+    "Culture": {
+      "PersonalAttributes": {},
+      "PersonalInterests": {}
+    },
+    "DataProcessing": {
+      "Nature": {}
+    },
+    "Exposure": {
+      "HistoricalTopics": {}
+    },
+    "Family": {
+      "size": {}
+    },
+    "Historical": {
+      "Background": {}
+    },
+    "Knowledge": {
+      "AboutRefugeeIssues": {}
+    },
+    "Leadership": {
+      "Style": {}
+    },
+    "LocalEvents": {
+      "Attendance": {}
+    },
+    "LocalLaws": {
+      "RhodeIsland": {}
+    },
+    "Political": {
+      "Views": {}
+    },
+    "Preferences": {
+      "ChildrenPreferences": {},
+      "PersonalPreferences": {}
+    },
+    "Priorities": {
+      "TravelGoals": {}
+    },
+    "Region": {
+      "Residence": {}
+    },
+    "School": {
+      "Environment": {}
+    },
+    "SocialActivities": {
+      "NightlifeExperience": {}
+    },
+    "SocialStigma": {
+      "Menstruation": {}
+    },
+    "SubstanceUse": {
+      "DrugAwareness": {}
+    },
+    "SupportSystems": {
+      "Availability": {}
+    }
+  },
+  "Demographic Information": {
+    "Demographics": {
+      "Age": {},
+      "CurrentLocation": {},
+      "Education": {},
+      "General": {},
+      "Identity": {},
+      "Origin": {},
+      "Region": {},
+      "TargetAudience": {}
+    },
+    "Family": {
+      "FamilyDynamics": {},
+      "PersonalAttributes": {},
+      "PersonalDemographics": {}
+    },
+    "Lifestyle": {
+      "budget": {}
+    },
+    "Professional": {
+      "Demographic": {},
+      "Professional Background": {}
+    },
+    "Socioeconomic": {
+      "UserProfile": {}
+    }
+  },
+  "Education and Learning": {
+    "AcademicProfile": {
+      "EducationLevel": {},
+      "EducationalBackground": {}
+    },
+    "EducationalInstitution": {
+      "Name": {}
+    },
+    "KnowledgeFamiliarity": {
+      "DifficultyLevel": {},
+      "MedicalTerminology": {}
+    },
+    "LearningPlatform": {
+      "Focus": {}
+    },
+    "PersonalAttributes": {
+      "FitnessPreferences": {},
+      "UserPreferences": {}
+    },
+    "PersonalExperience": {
+      "WorkingWithRefugees": {}
+    },
+    "SubjectExpertise": {
+      "FocusArea": {}
+    },
+    "SubjectInterest": {
+      "User_Personalization": {}
+    },
+    "UnderstandingLevel": {
+      "Achievement": {},
+      "Creative_Education": {},
+      "Science_Education": {},
+      "Status": {}
+    }
+  },
+  "Emotional and Relational Skills": {
+    "Emotional Attributes": {
+      "EmotionalSupportNeeds": {}
+    },
+    "Environmental Attributes": {
+      "emotionalConnection": {}
+    },
+    "Personal Attributes": {
+      "Beliefs": {},
+      "Preferences": {}
+    },
+    "Work Attributes": {
+      "Drivers": {}
+    }
+  },
+  "Hobbies, Interests, and Lifestyle": {
+    "Education": {
+      "Interests": {}
+    },
+    "FoodPreferences": {
+      "Dietary Preference": {},
+      "Food Preference": {}
+    },
+    "Hobbies": {
+      "design": {},
+      "types": {}
+    },
+    "Interests": {
+      "ConsumerPreferences": {},
+      "CulturalInterest": {},
+      "UserPreferences": {}
+    },
+    "LifestylePreferences": {
+      "UserAttributes": {}
+    },
+    "Professional": {
+      "Interests": {}
+    },
+    "WorkRelatedInterests": {
+      "FinancialManagement": {},
+      "InvestmentPreferences": {}
+    },
+    "contentType": {
+      "AdCampaigns": {}
+    }
+  },
+  "Lifestyle and Daily Routine": {
+    "Dietary Preferences": {
+      "DailyContext": {},
+      "FamilyContext": {},
+      "HealthConsiderations": {},
+      "Preferences": {}
+    },
+    "Living Conditions": {
+      "BuyingIntention": {}
+    },
+    "Personal Lifestyle": {
+      "Preferences": {}
+    }
+  },
+  "Media Consumption and Engagement": {
+    "PersonalizationAttributes": {
+      "UserPreferences": {}
+    }
+  },
+  "Physical and Health Characteristics": {
+    "EnvironmentalFactors": {
+      "SoilType": {}
+    },
+    "GeneticHistory": {
+      "GeneticDisorders": {}
+    },
+    "HealthObjectives": {
+      "CardiovascularWellness": {}
+    },
+    "MedicalHistory": {
+      "General": {}
+    },
+    "PersonalHealthAttributes": {
+      "DietaryPreferences": {},
+      "General": {},
+      "HealthConditions": {}
+    }
+  },
+  "Psychological and Cognitive Aspects": {
+    "BehavioralAttributes": {
+      "AlcoholConsumptionHistory": {}
+    },
+    "CognitiveAttributes": {
+      "CognitiveAttributes": {},
+      "DevelopmentalAttributes": {},
+      "EmotionalAttributes": {},
+      "PreferenceAttributes": {}
+    },
+    "CopingMechanisms": {
+      "PersonalHistory": {}
+    },
+    "EmotionalAttributes": {
+      "PersonalAttributes": {},
+      "PsychologicalFactors": {}
+    },
+    "MentalAttributes": {
+      "CognitiveAttributes": {},
+      "UserPreferences": {}
+    },
+    "Past": {
+      "IndividualCharacteristics": {}
+    },
+    "PersonalityAttributes": {
+      "Style": {}
+    },
+    "User": {
+      "EmotionalState": {}
+    }
+  },
+  "Relationships and Social Networks": {
+    "CustomerRelations": {
+      "UserEngagement": {},
+      "UserProfile": {}
+    },
+    "FamilyRelations": {
+      "CurrentLocation": {},
+      "CurrentState": {},
+      "FamilyDynamics": {},
+      "FamilyMaritalStatus": {},
+      "RelationshipDetails": {}
+    },
+    "PersonalPreferences": {
+      "Companions": {}
+    },
+    "PersonalRelationships": {
+      "Availability": {},
+      "Context": {},
+      "SocialConnections": {},
+      "SocialInfluence": {},
+      "UniversityAffiliation": {}
+    },
+    "ProfessionalRelations": {
+      "PersonalAttributes": {}
+    },
+    "ProfessionalRelationships": {
+      "Colleagues": {},
+      "Connections": {},
+      "Duration": {},
+      "HeadOfSalesRelationship": {},
+      "Interests": {},
+      "Preferences": {},
+      "Relationship": {},
+      "RelationshipQuality": {},
+      "Role": {},
+      "ZichengExperience": {}
+    },
+    "UserAttributes": {
+      "FatherRelationship": {}
+    }
+  }
+}

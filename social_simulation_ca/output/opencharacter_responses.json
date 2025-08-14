@@ -1,0 +1,4622 @@
+{
+  "3f99fb18-25a9-4e43-b0df-d036f4658d76": {
+    "character_id": "3f99fb18-25a9-4e43-b0df-d036f4658d76",
+    "persona": "an alumna of the University of British Columbia who majored in biochemistry and knew Anne Pomeroy Autor personally",
+    "Name": "Emily Carter\n",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.67",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "d5aa262d-03bc-4dd9-98fc-246e4559faec": {
+    "character_id": "d5aa262d-03bc-4dd9-98fc-246e4559faec",
+    "persona": "A car salesman in Prince Edward Island who is skeptical about government policies",
+    "Name": "Jack Thompson",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "4.67",
+    "Q184_raw_responses": [
+      "4",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "2.00",
+    "Q254_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "456ea734-fc42-428e-9cb6-53c705da0e7b": {
+    "character_id": "456ea734-fc42-428e-9cb6-53c705da0e7b",
+    "persona": "A Canadian Football enthusiast who has a very acute memory of old players.",
+    "Name": "Michael \"Mike\" Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "62b84398-6433-4784-944d-364ca35d33c7": {
+    "character_id": "62b84398-6433-4784-944d-364ca35d33c7",
+    "persona": "A top-scoring player in the local league who is also eyeing a professional career in the NHL",
+    "Name": "Jason \"Jace\" Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "2c5a794b-ceda-43b5-82a5-6477cc1168ae": {
+    "character_id": "2c5a794b-ceda-43b5-82a5-6477cc1168ae",
+    "persona": "I am a hockey enthusiast who has been following the careers of notable defensemen.",
+    "Name": "Jack \"The Wall\" Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.67",
+    "Q184_raw_responses": [
+      "5",
+      "7",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "9c4225c5-8ba8-40ec-a942-48bc411a18fd": {
+    "character_id": "9c4225c5-8ba8-40ec-a942-48bc411a18fd",
+    "persona": "A history-loving retiree in British Columbia who frequently tells stories of the province's past to grandchildren",
+    "Name": "Harold \"Harry\" Thompson",
+    "country_name": "CAN",
+    "Q45": "2.33",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "3"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "66321279-ae58-45fb-a9e6-dc9b738d03cb": {
+    "character_id": "66321279-ae58-45fb-a9e6-dc9b738d03cb",
+    "persona": "a wrestling fan who appreciates Canadian talents",
+    "Name": "Tyler \"Ty\" McAllister",
+    "country_name": "CAN",
+    "Q45": "2.67",
+    "Q45_raw_responses": [
+      "3",
+      "2",
+      "3"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "cf580800-6591-4768-9198-8a4707878348": {
+    "character_id": "cf580800-6591-4768-9198-8a4707878348",
+    "persona": "A hardworking grade 9 student from Medicine Hat Christian School",
+    "Name": "Emily Thompson",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "2.00",
+    "Q184_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "01b7797b-f8ec-4f55-a8ea-dfea3004853c": {
+    "character_id": "01b7797b-f8ec-4f55-a8ea-dfea3004853c",
+    "persona": "A successful entrepreneur who started as an unpaid intern and now runs their own successful business in Alberta",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.33",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "9e0fb208-627f-4ae1-90cf-14037a4c7c27": {
+    "character_id": "9e0fb208-627f-4ae1-90cf-14037a4c7c27",
+    "persona": "an Indigenous cultural awareness trainer",
+    "Name": "Aiyana Redbird",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "4a9bf066-9c5a-4e28-8cb9-53273950211f": {
+    "character_id": "4a9bf066-9c5a-4e28-8cb9-53273950211f",
+    "persona": "A Canadian high school teacher who is trying to form a body positivity club at her school.",
+    "Name": "Emily Thompson",
+    "country_name": "CAN",
+    "Q45": "2.67",
+    "Q45_raw_responses": [
+      "3",
+      "2",
+      "3"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "48c491c9-0bc6-405b-af86-54339357b0df": {
+    "character_id": "48c491c9-0bc6-405b-af86-54339357b0df",
+    "persona": "a Canadian basketball fan born and raised in Vancouver",
+    "Name": "Jordan \"Jordy\" Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "f99f362d-72e1-4713-8b1f-d0c9b5f77108": {
+    "character_id": "f99f362d-72e1-4713-8b1f-d0c9b5f77108",
+    "persona": "A younger sibling who is studying French and interested in bilingualism in Canada",
+    "Name": "Sophie Tremblay",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "2bd65e15-df47-4955-b833-e246e59e5bf5": {
+    "character_id": "2bd65e15-df47-4955-b833-e246e59e5bf5",
+    "persona": "A visual effects artist who works on sci-fi films and continually seeks her parent's stories for inspiration",
+    "Name": "Elara Voss\n",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "2.00",
+    "Q254_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "501ee916-cdc5-4fa4-95ce-3ed90898fc91": {
+    "character_id": "501ee916-cdc5-4fa4-95ce-3ed90898fc91",
+    "persona": "A player who is motivated to work hard and improve their skills in order to earn more ice time",
+    "Name": "Alex \"Ace\" Carter",
+    "country_name": "CAN",
+    "Q45": "1.67",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.67",
+    "Q184_raw_responses": [
+      "5",
+      "7",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "5ff0cf36-5f55-49bd-8b89-47b7e739b5c6": {
+    "character_id": "5ff0cf36-5f55-49bd-8b89-47b7e739b5c6",
+    "persona": "A public health policy analyst working within the Ministry of Health, responsible for developing and implementing policies",
+    "Name": "Dr. Elara Thompson\n",
+    "country_name": "CAN",
+    "Q45": "2.67",
+    "Q45_raw_responses": [
+      "3",
+      "2",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.67",
+    "Q184_raw_responses": [
+      "8",
+      "7",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "25e67f91-264c-4084-8b08-a6776af4e547": {
+    "character_id": "25e67f91-264c-4084-8b08-a6776af4e547",
+    "persona": "A local artist who creates vibrant murals inspired by the St. Vital neighborhood",
+    "Name": "Clara Thompson",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.33",
+    "Q184_raw_responses": [
+      "8",
+      "9",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "5387609a-462f-4e28-a7de-3194895b0280": {
+    "character_id": "5387609a-462f-4e28-a7de-3194895b0280",
+    "persona": "A local TV critic and a cultural commentator in Canada with a particular interest in the representation of diversity in media.",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "9.33",
+    "Q184_raw_responses": [
+      "9",
+      "10",
+      "9"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "2.00",
+    "Q254_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "644924dd-86a6-4504-9958-b8ce72b0acd0": {
+    "character_id": "644924dd-86a6-4504-9958-b8ce72b0acd0",
+    "persona": "A culture-conscious Montrealer who is focused on political trivia",
+    "Name": "Jacques Tremblay",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.33",
+    "Q184_raw_responses": [
+      "7",
+      "8",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "b83c07a9-6d56-447f-99d3-f090e658ef27": {
+    "character_id": "b83c07a9-6d56-447f-99d3-f090e658ef27",
+    "persona": "A dedicated and organized individual responsible for overseeing all aspects of the hockey team",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ce0763e2-ef18-45f9-a702-cc48d298c0a0": {
+    "character_id": "ce0763e2-ef18-45f9-a702-cc48d298c0a0",
+    "persona": "A local musician who regularly collaborates with the DJ to showcase Canadian talent on-air",
+    "Name": "Alex \"Lex\" Thompson",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "9.00",
+    "Q184_raw_responses": [
+      "9",
+      "9",
+      "9"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.33",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "2"
+    ]
+  },
+  "9a1dbf4a-9a51-4e12-ae21-51e6e7e4c57c": {
+    "character_id": "9a1dbf4a-9a51-4e12-ae21-51e6e7e4c57c",
+    "persona": "A retired bus driver who has lived all their life in Manitoba and has great concern for road safety.",
+    "Name": "Harold \"Harry\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "2544a61f-b336-463b-8509-b5d20571565e": {
+    "character_id": "2544a61f-b336-463b-8509-b5d20571565e",
+    "persona": "A Canadian expat and digital nomad who loves to explore local history and planning to tour Cyprus.",
+    "Name": "Alex Morgan\n",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "2.00",
+    "Q254_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "bd9721c9-5384-4a27-a60b-4279e790aa87": {
+    "character_id": "bd9721c9-5384-4a27-a60b-4279e790aa87",
+    "persona": "A Canadian hunter who is looking to purchase a new rifle for the upcoming hunting season",
+    "Name": "Jack Thompson",
+    "country_name": "CAN",
+    "Q45": "2.67",
+    "Q45_raw_responses": [
+      "3",
+      "2",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "3.00",
+    "Q57_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "b83269d9-d66d-4da4-affe-ade9e649dd15": {
+    "character_id": "b83269d9-d66d-4da4-affe-ade9e649dd15",
+    "persona": "An environmental scientist passionate about developing sustainable technologies for future colonization",
+    "Name": "Dr. Elara Greenfield",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "1f7498e5-24c2-4737-a696-90a3076efbf7": {
+    "character_id": "1f7498e5-24c2-4737-a696-90a3076efbf7",
+    "persona": "An alum of Daaquam sawmill who is nostalgic about the past",
+    "Name": "Harold \"Harry\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "5dbc5fe6-c85b-404c-9e40-5717dd507622": {
+    "character_id": "5dbc5fe6-c85b-404c-9e40-5717dd507622",
+    "persona": "a resident of Gloucester-Southgate Ward in Ottawa",
+    "Name": "Emily Carter",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "35030883-0288-4d6c-aff7-ccdd7d9a23e5": {
+    "character_id": "35030883-0288-4d6c-aff7-ccdd7d9a23e5",
+    "persona": "A high-profile professional hockey player enjoying celebrity status and frequent media interaction",
+    "Name": "Alex \"The Ice King\" Johnson",
+    "country_name": "CAN",
+    "Q45": "1.67",
+    "Q45_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "d71bb652-3e8b-46a1-9f2f-3efc21276534": {
+    "character_id": "d71bb652-3e8b-46a1-9f2f-3efc21276534",
+    "persona": "An old-time hockey fan who misses the days of legendary goaltenders and is skeptical about modern data analytics in sports.",
+    "Name": "Walter \"Wally\" McGregor",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.67",
+    "Q218_raw_responses": [
+      "3",
+      "3",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "3ef16464-610a-40af-b8bb-97056f60d1b5": {
+    "character_id": "3ef16464-610a-40af-b8bb-97056f60d1b5",
+    "persona": "A Mi’kmaq youth who is passionate about sports and his heritage.",
+    "Name": "Kesi Muin\n",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "6.67",
+    "Q184_raw_responses": [
+      "7",
+      "6",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "0a5b6898-8bc1-4fd4-a698-c67afae735f9": {
+    "character_id": "0a5b6898-8bc1-4fd4-a698-c67afae735f9",
+    "persona": "A nostalgic adult animation fan who grew up watching 'Total Drama' in the 2000s and is excited about the revival.",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "2.33",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "2cb424ed-e2f3-4009-9c49-1b3a38c431d6": {
+    "character_id": "2cb424ed-e2f3-4009-9c49-1b3a38c431d6",
+    "persona": "一个热爱足球的加拿大青少年",
+    "Name": "Ethan Carter",
+    "country_name": "CAN",
+    "Q45": "1.33",
+    "Q45_raw_responses": [
+      "2",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "38e7789c-b092-4d80-9ce9-746d56bfac44": {
+    "character_id": "38e7789c-b092-4d80-9ce9-746d56bfac44",
+    "persona": "A music producer who has collaborated with both The Weeknd and Drake and provides unique insights into their artistic processes",
+    "Name": "Marcus \"M.J.\" Johnson",
+    "country_name": "CAN",
+    "Q45": "2.33",
+    "Q45_raw_responses": [
+      "3",
+      "2",
+      "2"
+    ],
+    "Q46": "1.33",
+    "Q46_raw_responses": [
+      "1",
+      "2",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.33",
+    "Q184_raw_responses": [
+      "7",
+      "8",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "72128548-590d-440d-81d4-80886e32015c": {
+    "character_id": "72128548-590d-440d-81d4-80886e32015c",
+    "persona": "a general manager of a small tech company in Toronto who loves to attend business events in person",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.33",
+    "Q254_raw_responses": [
+      "2",
+      "1",
+      "1"
+    ]
+  },
+  "3ca4c8b0-02c8-4472-86c5-2296f216a589": {
+    "character_id": "3ca4c8b0-02c8-4472-86c5-2296f216a589",
+    "persona": "An Indigenous studies scholar advocating for the recognition of Indigenous contributions to Renaissance art and culture",
+    "Name": "Dr. Aiyana Redbird",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "5ae773df-8622-4888-9c76-d4477f951ef4": {
+    "character_id": "5ae773df-8622-4888-9c76-d4477f951ef4",
+    "persona": "Surly hockey fan who believes in the 'good old days' of hockey",
+    "Name": "Jack \"Grizzly\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "3.00",
+    "Q57_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q184": "4.33",
+    "Q184_raw_responses": [
+      "5",
+      "4",
+      "4"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "6008b42e-9ea7-43ea-ad7c-252b15cb8a56": {
+    "character_id": "6008b42e-9ea7-43ea-ad7c-252b15cb8a56",
+    "persona": "A travel blogger known for their captivating storytelling and stunning photography, attracting thousands of followers to their blog and social media channels",
+    "Name": "Alex Rivers",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "9.00",
+    "Q184_raw_responses": [
+      "9",
+      "9",
+      "9"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.67",
+    "Q254_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ]
+  },
+  "0f201617-fcb9-4a21-bb74-34f5f1ef840c": {
+    "character_id": "0f201617-fcb9-4a21-bb74-34f5f1ef840c",
+    "persona": "A theater enthusiast who grew up in New Brunswick and has participated in the festival as a student",
+    "Name": "Emily Carter",
+    "country_name": "CAN",
+    "Q45": "2.33",
+    "Q45_raw_responses": [
+      "2",
+      "3",
+      "2"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "a2ea4163-28d9-4771-95b1-518a6e651f02": {
+    "character_id": "a2ea4163-28d9-4771-95b1-518a6e651f02",
+    "persona": "A producer who coordinates the logistics of motion capture shoots and ensures timely delivery of assets",
+    "Name": "Alex Morgan\n",
+    "country_name": "CAN",
+    "Q45": "2.67",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.67",
+    "Q184_raw_responses": [
+      "8",
+      "9",
+      "9"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "2.00",
+    "Q254_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "673a3d40-4a91-4cea-ae97-4be24473765c": {
+    "character_id": "673a3d40-4a91-4cea-ae97-4be24473765c",
+    "persona": "A Canadian teacher obsessed with news and current affairs",
+    "Name": "Emily Harper",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "1.67",
+    "Q218_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ],
+    "Q254": "1.67",
+    "Q254_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ]
+  },
+  "32cdc382-b6c2-45e7-86d9-dc5127777a6e": {
+    "character_id": "32cdc382-b6c2-45e7-86d9-dc5127777a6e",
+    "persona": "A retired police officer who's lived in Winnipeg for decades",
+    "Name": "Jack Thompson",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.33",
+    "Q184_raw_responses": [
+      "5",
+      "6",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "0a7a5ebc-2298-4a0b-a54d-e511891ad55e": {
+    "character_id": "0a7a5ebc-2298-4a0b-a54d-e511891ad55e",
+    "persona": "A talented teenage hockey player who aspires to break gender barriers in the sport",
+    "Name": "Riley Thompson",
+    "country_name": "CAN",
+    "Q45": "2.67",
+    "Q45_raw_responses": [
+      "2",
+      "3",
+      "3"
+    ],
+    "Q46": "1.33",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "0f7b5870-83fa-46be-a55b-7b1bb8620047": {
+    "character_id": "0f7b5870-83fa-46be-a55b-7b1bb8620047",
+    "persona": "a professional canoeist extremely competitive and always looking for information that will give her an edge.",
+    "Name": "Emily \"Em\" Rivers",
+    "country_name": "CAN",
+    "Q45": "2.33",
+    "Q45_raw_responses": [
+      "2",
+      "3",
+      "2"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "a63f171a-e0cb-4a67-bc5f-3f56ded1c124": {
+    "character_id": "a63f171a-e0cb-4a67-bc5f-3f56ded1c124",
+    "persona": "A young hockey player who appreciates both indoor and outdoor training and enjoys the challenges they bring",
+    "Name": "Alex \"Ace\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.67",
+    "Q45_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "6.33",
+    "Q184_raw_responses": [
+      "6",
+      "7",
+      "6"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "1ff10a8a-2117-4f93-8b5f-310884d8e044": {
+    "character_id": "1ff10a8a-2117-4f93-8b5f-310884d8e044",
+    "persona": "A sibling who has been their concert buddy and travel companion to Celine Dion shows around the world",
+    "Name": "Emily Carter",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.33",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.33",
+    "Q254_raw_responses": [
+      "1",
+      "2",
+      "1"
+    ]
+  },
+  "5e04ca8e-2364-4863-801c-72fd50cb004a": {
+    "character_id": "5e04ca8e-2364-4863-801c-72fd50cb004a",
+    "persona": "A policy advisor responsible for developing renewable energy initiatives in BC",
+    "Name": "Eleanor \"Ellie\" Thompson",
+    "country_name": "CAN",
+    "Q45": "2.67",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "2"
+    ],
+    "Q46": "1.33",
+    "Q46_raw_responses": [
+      "1",
+      "2",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.33",
+    "Q254_raw_responses": [
+      "1",
+      "2",
+      "1"
+    ]
+  },
+  "04bd871f-b36d-47c2-bc25-9e3f118bb4c6": {
+    "character_id": "04bd871f-b36d-47c2-bc25-9e3f118bb4c6",
+    "persona": "a schoolmate of Paul Willey from Vancouver's Kitsilano Secondary School",
+    "Name": "Emily Chen\n",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "bda513b4-6d5e-4d6e-9316-f0158a4e33df": {
+    "character_id": "bda513b4-6d5e-4d6e-9316-f0158a4e33df",
+    "persona": "A professor at Memorial University who specializes in the history of the alma mater",
+    "Name": "Dr. Evelyn Harper\n",
+    "country_name": "CAN",
+    "Q45": "2.67",
+    "Q45_raw_responses": [
+      "2",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "f59b7c2c-dcb3-4d89-a083-566e344cf99d": {
+    "character_id": "f59b7c2c-dcb3-4d89-a083-566e344cf99d",
+    "persona": "A young aspiring military historian who is eager to learn about the battles and strategies of the Canadian Armed Forces",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ede13a4e-64f8-48e7-bf71-9dbef7e41f3c": {
+    "character_id": "ede13a4e-64f8-48e7-bf71-9dbef7e41f3c",
+    "persona": "a client seeking a divorce in Ontario, Canada",
+    "Name": "Sarah Thompson",
+    "country_name": "CAN",
+    "Q45": "1.33",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "2"
+    ],
+    "Q46": "3.00",
+    "Q46_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "2.00",
+    "Q254_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "aecb9db7-03d5-44f3-89ef-517441d54b18": {
+    "character_id": "aecb9db7-03d5-44f3-89ef-517441d54b18",
+    "persona": "a resident of Moose Jaw who enjoys swimming at the Phyllis Dewar Outdoor Pool.",
+    "Name": "Emily Thompson",
+    "country_name": "CAN",
+    "Q45": "1.67",
+    "Q45_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "bf3df171-c0fc-4682-bad3-86b616c05085": {
+    "character_id": "bf3df171-c0fc-4682-bad3-86b616c05085",
+    "persona": "A biologist who studies the ecosystem to understand the impact of industrial activities on wildlife",
+    "Name": "Dr. Elara Finch\n",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.67",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "bf5b8c8b-e9ac-4971-821b-1e1e7a220590": {
+    "character_id": "bf5b8c8b-e9ac-4971-821b-1e1e7a220590",
+    "persona": "A transportation reporter who is investigating the issues with public transit management in Vancouver",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.33",
+    "Q254_raw_responses": [
+      "2",
+      "1",
+      "1"
+    ]
+  },
+  "905c4f19-a198-4a14-970e-3dcf0fd80ac9": {
+    "character_id": "905c4f19-a198-4a14-970e-3dcf0fd80ac9",
+    "persona": "a college student who is looking for an affordable place to live in Edmonton",
+    "Name": "Alex Turner",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "2.00",
+    "Q254_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "56fabaa4-b82b-4f84-bf30-92d87b697b61": {
+    "character_id": "56fabaa4-b82b-4f84-bf30-92d87b697b61",
+    "persona": "A Winnipeg Blue Bombers superfan",
+    "Name": "Jack \"Bomber\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.67",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "1"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "6d9060f1-b047-4c55-8730-e4269e6b95e7": {
+    "character_id": "6d9060f1-b047-4c55-8730-e4269e6b95e7",
+    "persona": "A fellow gold prospector from a different region with unique insights and strategies",
+    "Name": "Jasper \"Goldfinger\" McAllister",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.33",
+    "Q57_raw_responses": [
+      "2",
+      "3",
+      "2"
+    ],
+    "Q184": "5.33",
+    "Q184_raw_responses": [
+      "6",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "bd7d90ee-3f5f-47cb-88ae-5eefb380b96f": {
+    "character_id": "bd7d90ee-3f5f-47cb-88ae-5eefb380b96f",
+    "persona": "A volunteer at a local ice hockey rink who organizes equipment drives for underprivileged children",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "1.33",
+    "Q46_raw_responses": [
+      "1",
+      "2",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "59a96221-fe46-4a19-a2f8-70f6741c85cb": {
+    "character_id": "59a96221-fe46-4a19-a2f8-70f6741c85cb",
+    "persona": "A hockey coach who often recommends the store to their team members",
+    "Name": "Jack \"Coach\" Harrison",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "15510917-d9a8-428d-8a1f-6891a14f4577": {
+    "character_id": "15510917-d9a8-428d-8a1f-6891a14f4577",
+    "persona": "a fan of the Mass Effect franchise who identifies as a LGBTQIA+",
+    "Name": "Alex Ryder",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "10.00",
+    "Q184_raw_responses": [
+      "10",
+      "10",
+      "10"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "2.00",
+    "Q254_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "1325cf25-1d5a-4cea-a2b6-8e179953a504": {
+    "character_id": "1325cf25-1d5a-4cea-a2b6-8e179953a504",
+    "persona": "A biologist studying the ecological impact of symbiotic relationships and seeking the persona's traditional knowledge",
+    "Name": "Dr. Elara Voss\n",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.33",
+    "Q46_raw_responses": [
+      "1",
+      "2",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "5f939b93-c1b9-41a3-af68-a093c1ae21ea": {
+    "character_id": "5f939b93-c1b9-41a3-af68-a093c1ae21ea",
+    "persona": "A businessman from Canada who is skeptical of digital data privacy, and has a strong need for heavy equipment rental service.",
+    "Name": "Richard \"Rick\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "4.00",
+    "Q57_raw_responses": [
+      "4",
+      "4",
+      "4"
+    ],
+    "Q184": "4.33",
+    "Q184_raw_responses": [
+      "4",
+      "4",
+      "5"
+    ],
+    "Q218": "3.00",
+    "Q218_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q254": "1.33",
+    "Q254_raw_responses": [
+      "1",
+      "2",
+      "1"
+    ]
+  },
+  "3df06c6f-e5dd-44ae-8c98-d26b59d3eefc": {
+    "character_id": "3df06c6f-e5dd-44ae-8c98-d26b59d3eefc",
+    "persona": "A Canadian dairy farmer",
+    "Name": "Samuel \"Sam\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "1.33",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "983824bb-818b-4e0b-a106-456dc5663f64": {
+    "character_id": "983824bb-818b-4e0b-a106-456dc5663f64",
+    "persona": "A long-time resident of Ontario who shares anecdotal insights about the city's evolution",
+    "Name": "Margaret \"Maggie\" Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "7a34b20d-2f92-49b7-896d-f789a012b484": {
+    "character_id": "7a34b20d-2f92-49b7-896d-f789a012b484",
+    "persona": "I am a former figure skating competitor who is now a proud sports commentator and a vocal advocate for LGBTQ+ inclusion in sports.",
+    "Name": "Alex Morgan\n",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "10.00",
+    "Q184_raw_responses": [
+      "10",
+      "10",
+      "10"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.33",
+    "Q254_raw_responses": [
+      "1",
+      "2",
+      "1"
+    ]
+  },
+  "e2ad5f48-c369-4778-922b-3910bf685fd8": {
+    "character_id": "e2ad5f48-c369-4778-922b-3910bf685fd8",
+    "persona": "A Cranbrook local and enthusiastic lottery player",
+    "Name": "Harold \"Harry\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.33",
+    "Q45_raw_responses": [
+      "1",
+      "2",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.33",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "6"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "700f75d1-547f-457d-a38c-0063bec3cdd4": {
+    "character_id": "700f75d1-547f-457d-a38c-0063bec3cdd4",
+    "persona": "An enthusiastic tech blogger from Montreal with a passion for consumer advocacy and helping people save money on technology and telecom services.",
+    "Name": "Alex Tremblay",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.33",
+    "Q46_raw_responses": [
+      "1",
+      "2",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.33",
+    "Q184_raw_responses": [
+      "8",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.33",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "2"
+    ]
+  },
+  "c0743db0-c0aa-4bb8-aeb6-082939d76402": {
+    "character_id": "c0743db0-c0aa-4bb8-aeb6-082939d76402",
+    "persona": "a proud young Jewish student at a Canadian university",
+    "Name": "Miriam Cohen",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.33",
+    "Q254_raw_responses": [
+      "2",
+      "1",
+      "1"
+    ]
+  },
+  "7d447781-9529-4d94-ba76-f0b3e6ab150f": {
+    "character_id": "7d447781-9529-4d94-ba76-f0b3e6ab150f",
+    "persona": "An avid fan of Justin Bieber who is also a firm supporter of human rights",
+    "Name": "Emily Carter",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "1.33",
+    "Q218_raw_responses": [
+      "2",
+      "1",
+      "1"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "1264a2ce-d75c-4c4e-ae1c-bb72814c2ad7": {
+    "character_id": "1264a2ce-d75c-4c4e-ae1c-bb72814c2ad7",
+    "persona": "A biologist who studies the relationship between light and vegetation in different ecosystems",
+    "Name": "Dr. Elara Voss",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "741f70b0-65fe-4650-aad0-6477ebf2ddaa": {
+    "character_id": "741f70b0-65fe-4650-aad0-6477ebf2ddaa",
+    "persona": "A software engineer in B.C. who loves fishing",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "2.67",
+    "Q45_raw_responses": [
+      "3",
+      "2",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.67",
+    "Q254_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ]
+  },
+  "102ec642-a663-4468-8172-c149d55048d2": {
+    "character_id": "102ec642-a663-4468-8172-c149d55048d2",
+    "persona": "A passionate ice hockey blogger from Canada who firmly believes that Germany has an excellent track record for hosting sporting events.",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.67",
+    "Q254_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ]
+  },
+  "1f8952b3-8e9e-4abf-ace7-09e4b776eafd": {
+    "character_id": "1f8952b3-8e9e-4abf-ace7-09e4b776eafd",
+    "persona": "A hockey coach at a junior league who encourages young players to respect all athletes regardless of gender",
+    "Name": "Coach Riley Thompson\n",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.67",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "84be43a6-833f-4b5b-a776-2d71a09ff7ed": {
+    "character_id": "84be43a6-833f-4b5b-a776-2d71a09ff7ed",
+    "persona": "An activist advocating for the recognition and representation of Southeast Asian communities in Canada.",
+    "Name": "Amina Tran\n",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "9.00",
+    "Q184_raw_responses": [
+      "9",
+      "9",
+      "9"
+    ],
+    "Q218": "1.00",
+    "Q218_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ca90c20d-7ac3-48f8-978c-9ee957978bed": {
+    "character_id": "ca90c20d-7ac3-48f8-978c-9ee957978bed",
+    "persona": "A retired Canadian political science professor who is passionate about regional governance and decentralization",
+    "Name": "Dr. Margaret \"Maggie\" Thompson\n",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "878964c5-8cca-465a-80f1-6413073da230": {
+    "character_id": "878964c5-8cca-465a-80f1-6413073da230",
+    "persona": "A young couple struggling to find affordable housing in Winnipeg",
+    "Name": "Emily Carter",
+    "country_name": "CAN",
+    "Q45": "2.33",
+    "Q45_raw_responses": [
+      "2",
+      "3",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.33",
+    "Q184_raw_responses": [
+      "9",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "2.00",
+    "Q254_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "b48fcca0-6f82-4844-a2bc-0b6e773f33b0": {
+    "character_id": "b48fcca0-6f82-4844-a2bc-0b6e773f33b0",
+    "persona": "An amateur watercolor painter and mother of two kids, living in Toronto, with a dream to one day get exhibited at a reputable gallery.",
+    "Name": "Emily Harper",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.67",
+    "Q184_raw_responses": [
+      "7",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "b945a054-f9d4-4c4d-b228-084a97eb7bfc": {
+    "character_id": "b945a054-f9d4-4c4d-b228-084a97eb7bfc",
+    "persona": "A forestry expert in charge of sustainable management of Canada's mill industry",
+    "Name": "Evelyn Hartwood",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "f6dc40e1-3dc3-4afa-ad1e-c9e1c2e97abc": {
+    "character_id": "f6dc40e1-3dc3-4afa-ad1e-c9e1c2e97abc",
+    "persona": "A devoted fan of Forge FC",
+    "Name": "Liam O'Connor",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "b0f01139-2b95-452b-b9b7-e8db028acb8f": {
+    "character_id": "b0f01139-2b95-452b-b9b7-e8db028acb8f",
+    "persona": "A retired veteran of the Canadian army who, after a long career serving the country, has become a local historian with a keen interest in the business landscape and notable figures of Calgary, Alberta.",
+    "Name": "Robert \"Bob\" MacAllister",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "dab68bca-eeb3-4608-ae7c-f8f03440bff2": {
+    "character_id": "dab68bca-eeb3-4608-ae7c-f8f03440bff2",
+    "persona": "A proud member and resident of the White Bear First Nations",
+    "Name": "Aiyana Whitebear",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "e0378458-9765-466b-a3a0-6f7406b7fd25": {
+    "character_id": "e0378458-9765-466b-a3a0-6f7406b7fd25",
+    "persona": "An emerging Canadian actress who idolizes Shirley Knight",
+    "Name": "Emily Harper\n",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "56b8e127-34e1-4588-813b-62ea04575d40": {
+    "character_id": "56b8e127-34e1-4588-813b-62ea04575d40",
+    "persona": "A talented defenseman who shares the same determination and dreams of playing at the highest level",
+    "Name": "Alex \"The Wall\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.67",
+    "Q45_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.67",
+    "Q184_raw_responses": [
+      "5",
+      "7",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "09364c10-bbc0-4001-94fe-2097a7c92c67": {
+    "character_id": "09364c10-bbc0-4001-94fe-2097a7c92c67",
+    "persona": "A huge fan of progressive rock and a long-term follower of Rush",
+    "Name": "Alex \"Geddy\" Thompson",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.67",
+    "Q254_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ]
+  },
+  "5308abfa-f7f6-470e-bc05-f9599ec79de9": {
+    "character_id": "5308abfa-f7f6-470e-bc05-f9599ec79de9",
+    "persona": "a host of a Canadian radio sports show",
+    "Name": "Ryan \"Ry\" Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.67",
+    "Q184_raw_responses": [
+      "5",
+      "7",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "390fcb57-dd1a-4125-97c2-09b924ba92fb": {
+    "character_id": "390fcb57-dd1a-4125-97c2-09b924ba92fb",
+    "persona": "A conservative Canadian citizen who dislikes Trudeau",
+    "Name": "Robert \"Rob\" MacAllister",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "2.67",
+    "Q46_raw_responses": [
+      "3",
+      "2",
+      "3"
+    ],
+    "Q57": "3.00",
+    "Q57_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q184": "2.00",
+    "Q184_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "3abd79a1-121c-433e-b227-7ca55e70edea": {
+    "character_id": "3abd79a1-121c-433e-b227-7ca55e70edea",
+    "persona": "A conservative political commentator who is critical of the Alberta New Democratic Party (NDP)",
+    "Name": "Richard \"Rick\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "3.00",
+    "Q57_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "7d94863d-40b3-4050-987b-b507072b4048": {
+    "character_id": "7d94863d-40b3-4050-987b-b507072b4048",
+    "persona": "A recently graduated student from the University of Ottawa's Graduate School of Public and International Affairs.",
+    "Name": "Emily Carter",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "3c59d419-5dfa-44ff-afc2-12253c7ad21e": {
+    "character_id": "3c59d419-5dfa-44ff-afc2-12253c7ad21e",
+    "persona": "A travel agent who plans vacations to explore the Canadian locations that inspired Lightfoot's songs",
+    "Name": "Emily Harper\n",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "6.67",
+    "Q184_raw_responses": [
+      "6",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "d03e045e-332e-4504-9820-a563b7b8010e": {
+    "character_id": "d03e045e-332e-4504-9820-a563b7b8010e",
+    "persona": "A concerned senior member of the Brantford community who used to volunteer with neighborhood watch.",
+    "Name": "Harold \"Harry\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.67",
+    "Q184_raw_responses": [
+      "6",
+      "6",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.33",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "2"
+    ]
+  },
+  "cc0046d9-8a01-4026-853c-99fac06e171c": {
+    "character_id": "cc0046d9-8a01-4026-853c-99fac06e171c",
+    "persona": "An active Barrhaven United Church member who enjoys helping others.",
+    "Name": "Margaret \"Maggie\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "4.67",
+    "Q184_raw_responses": [
+      "4",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "4f082485-4586-4adc-bda0-e098acca6896": {
+    "character_id": "4f082485-4586-4adc-bda0-e098acca6896",
+    "persona": "A construction company owner in Canada",
+    "Name": "Robert \"Bob\" MacKenzie",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ee8ddcc7-7082-48c2-828f-03c85ddfb87e": {
+    "character_id": "ee8ddcc7-7082-48c2-828f-03c85ddfb87e",
+    "persona": "an investment banker in Canada",
+    "Name": "Jonathan \"Jon\" Mitchell",
+    "country_name": "CAN",
+    "Q45": "1.33",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "6.67",
+    "Q184_raw_responses": [
+      "6",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "eacd5a42-f139-4248-9dc9-e766188a61ae": {
+    "character_id": "eacd5a42-f139-4248-9dc9-e766188a61ae",
+    "persona": "You are a hardcore Toronto Maple Leafs fan rejoice in every drafted player by Leafs.",
+    "Name": "Ryan \"Ry\" Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "1.33",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "6.67",
+    "Q184_raw_responses": [
+      "7",
+      "6",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "67f5030d-2d43-4e08-af78-2fccbba87a8b": {
+    "character_id": "67f5030d-2d43-4e08-af78-2fccbba87a8b",
+    "persona": "A daily user of the Toronto Transit Commission who has had negative experiences with the system",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "3.00",
+    "Q46_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "9.00",
+    "Q184_raw_responses": [
+      "9",
+      "9",
+      "9"
+    ],
+    "Q218": "1.00",
+    "Q218_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q254": "2.00",
+    "Q254_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "5d2711ca-ae12-4306-a689-b6fa0d0a43ae": {
+    "character_id": "5d2711ca-ae12-4306-a689-b6fa0d0a43ae",
+    "persona": "A unionized public sector worker in Vancouver who is passionate about advancing worker rights and social equality.",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "10.00",
+    "Q184_raw_responses": [
+      "10",
+      "10",
+      "10"
+    ],
+    "Q218": "1.67",
+    "Q218_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ],
+    "Q254": "2.00",
+    "Q254_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "4bfae965-cd84-4c79-86e5-8187c0213168": {
+    "character_id": "4bfae965-cd84-4c79-86e5-8187c0213168",
+    "persona": "a Canadian stand-up comedian and a big fan of Lisa Gilroy",
+    "Name": "Max Turner",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ecb5c142-c549-4c70-b42a-5e21b4777869": {
+    "character_id": "ecb5c142-c549-4c70-b42a-5e21b4777869",
+    "persona": "A retired ice hockey coach who has spent over 30 years mentoring players and fostering the sport's development, especially among women.",
+    "Name": "Jack \"Coach\" Thompson",
+    "country_name": "CAN",
+    "Q45": "1.00",
+    "Q45_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "e560c821-690b-454f-88db-6822c07de17d": {
+    "character_id": "e560c821-690b-454f-88db-6822c07de17d",
+    "persona": "an Alessia Cara superfan who always gets excited when talking about her music",
+    "Name": "Emily Thompson",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.00",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "2982e9a3-b939-4d63-9e49-4b09f99fe49c": {
+    "character_id": "2982e9a3-b939-4d63-9e49-4b09f99fe49c",
+    "persona": "A forest firefighter who works to protect the habitats of native flora and fauna in the boreal zone",
+    "Name": "Rowan Thorne",
+    "country_name": "CAN",
+    "Q45": "1.33",
+    "Q45_raw_responses": [
+      "2",
+      "1",
+      "1"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "0333f09c-cb2e-4e5a-86b1-5b4a96e7b76e": {
+    "character_id": "0333f09c-cb2e-4e5a-86b1-5b4a96e7b76e",
+    "persona": "A resident in Calgary who holds a strong suspicion over anything related to gold mining.",
+    "Name": "Thomas \"Tom\" Whitaker",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.33",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "3"
+    ],
+    "Q57": "4.00",
+    "Q57_raw_responses": [
+      "4",
+      "4",
+      "4"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "1.67",
+    "Q218_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ],
+    "Q254": "1.33",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "2"
+    ]
+  },
+  "bddadbfc-ab6b-48f5-8239-7701278be063": {
+    "character_id": "bddadbfc-ab6b-48f5-8239-7701278be063",
+    "persona": "A local music blogger from Calgary, Alberta, who is passionate about the local music scene and enjoys featuring up-and-coming artists.",
+    "Name": "Alex Harper",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "9.67",
+    "Q184_raw_responses": [
+      "10",
+      "9",
+      "10"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "2.00",
+    "Q254_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ]
+  },
+  "0c064c24-60f6-49f2-be25-c2a1a639a77c": {
+    "character_id": "0c064c24-60f6-49f2-be25-c2a1a639a77c",
+    "persona": "A sports psychologist who assesses the mental and emotional aspects of potential NHL prospects",
+    "Name": "Dr. Evelyn Hartman\n",
+    "country_name": "CAN",
+    "Q45": "1.67",
+    "Q45_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ],
+    "Q46": "1.33",
+    "Q46_raw_responses": [
+      "1",
+      "1",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "bfa52f25-b3a0-4551-b2c5-c973c84ad986": {
+    "character_id": "bfa52f25-b3a0-4551-b2c5-c973c84ad986",
+    "persona": "a hockey fan and blogger who doesn't like the New Jersey Devils",
+    "Name": "Alex Thompson",
+    "country_name": "CAN",
+    "Q45": "2.33",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "6c981b05-8597-44e1-a72a-eccd869b9d8e": {
+    "character_id": "6c981b05-8597-44e1-a72a-eccd869b9d8e",
+    "persona": "An aspiring Canadian art history major, deeply inspired by Doris Shadbolt's legacy.",
+    "Name": "Emily Harper\n",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "1.67",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "2843091c-5bd1-498c-b8d2-7a3570764fc8": {
+    "character_id": "2843091c-5bd1-498c-b8d2-7a3570764fc8",
+    "persona": "A curling enthusiast and amateur player from Sydney, Nova Scotia",
+    "Name": "Liam MacLeod",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "7.00",
+    "Q184_raw_responses": [
+      "7",
+      "7",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.33",
+    "Q254_raw_responses": [
+      "2",
+      "1",
+      "1"
+    ]
+  },
+  "ff99d907-42f6-4a17-8be7-40a984858aee": {
+    "character_id": "ff99d907-42f6-4a17-8be7-40a984858aee",
+    "persona": "A documentary filmmaker who is interested in creating a film about the Jewish migration and settlement on Vancouver Island",
+    "Name": "Miriam Goldstein",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.33",
+    "Q184_raw_responses": [
+      "9",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "0243f3d3-ba93-4a8c-84ad-bded2e932931": {
+    "character_id": "0243f3d3-ba93-4a8c-84ad-bded2e932931",
+    "persona": "An avid hockey player and coach who has been traveling around the world helping underprivileged children learn the sport.",
+    "Name": "Alex \"Ace\" Carter",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "1.33",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.67",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "7"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "ca5d3e81-a152-4547-a07e-2645533718d7": {
+    "character_id": "ca5d3e81-a152-4547-a07e-2645533718d7",
+    "persona": "A producer who values the retired player's insights and hires them as a commentator for hockey games",
+    "Name": "Marcus \"Mack\" Thompson",
+    "country_name": "CAN",
+    "Q45": "2.00",
+    "Q45_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q46": "1.33",
+    "Q46_raw_responses": [
+      "2",
+      "1",
+      "1"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.33",
+    "Q184_raw_responses": [
+      "5",
+      "6",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  },
+  "3173a82b-22a3-4564-9065-7c09a00605af": {
+    "character_id": "3173a82b-22a3-4564-9065-7c09a00605af",
+    "persona": "a passionate poetry lover from Saskatchewan, currently residing in Vancouver, British Columbia",
+    "Name": "Evelyn Harper",
+    "country_name": "CAN",
+    "Q45": "3.00",
+    "Q45_raw_responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "8.00",
+    "Q184_raw_responses": [
+      "8",
+      "8",
+      "8"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.67",
+    "Q254_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ]
+  },
+  "db1f7b54-7d4b-446c-8ca6-62bb33cf1096": {
+    "character_id": "db1f7b54-7d4b-446c-8ca6-62bb33cf1096",
+    "persona": "An archivist from a prestigious museum with access to rare photographs and documents related to RCAF and World War II aviation",
+    "Name": "Evelyn Harper\n",
+    "country_name": "CAN",
+    "Q45": "1.67",
+    "Q45_raw_responses": [
+      "1",
+      "2",
+      "2"
+    ],
+    "Q46": "2.00",
+    "Q46_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q57": "2.00",
+    "Q57_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q184": "5.00",
+    "Q184_raw_responses": [
+      "5",
+      "5",
+      "5"
+    ],
+    "Q218": "2.00",
+    "Q218_raw_responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "Q254": "1.00",
+    "Q254_raw_responses": [
+      "1",
+      "1",
+      "1"
+    ]
+  }
+}
