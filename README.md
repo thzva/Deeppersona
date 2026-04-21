@@ -249,10 +249,6 @@ We benchmark DeepPersona on three axes — that profiles are **deep, distinct, a
 
 ### Intrinsic Quality
 
-<p align="center">
-  <img src="assets/result3.png" alt="Intrinsic Comparison" width="800">
-</p>
-
 | Metric | PersonaHub | OpenCharacter | **DeepPersona** |
 |--------|-----------:|--------------:|----------------:|
 | Mean # attributes | 3.98 | 38.50 | **50.92** |
