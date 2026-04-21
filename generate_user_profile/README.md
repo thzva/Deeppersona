@@ -1,132 +1,128 @@
-# User Profile Generator
+<h1 align="center">🧬 Persona Generation Engine</h1>
 
-A comprehensive Python-based system for generating realistic, diverse user profiles with rich attributes using GPT and vector-based attribute selection.
+<p align="center">
+  <em>Stage 2 of DeepPersona — progressively sample the taxonomy to produce deep, coherent personas.</em>
+</p>
 
-## 📋 Overview
+<p align="center">
+  <img src="https://img.shields.io/badge/python-≥3.8-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/attributes-200+_per_profile-10B981" alt="Attributes">
+  <img src="https://img.shields.io/badge/selector-vector_search-8B5CF6" alt="Selector">
+  <img src="https://img.shields.io/badge/output-JSON-F59E0B" alt="Output">
+</p>
 
-This system generates detailed user profiles by:
-1. Creating demographic information (age, gender, location, occupation)
-2. Generating personal values, life attitudes, and stories
-3. Selecting relevant attributes from a large attribute database using semantic similarity
-4. Producing complete user profiles with personalized content
+This module is the **persona generation engine**. Given the 4,676-node taxonomy from [`process_attributes/`](../process_attributes/), it anchors a demographic and psychological core, then progressively samples attributes while the LLM fills each node conditioned on the evolving profile.
 
-## 🚀 Features
+---
 
-- **Demographic Generation**: Realistic age, gender, location, and career information
-- **Psychological Profiling**: Personal values, life attitudes, and coping mechanisms
-- **Story Generation**: Contextual personal stories based on demographic and psychological attributes
-- **Intelligent Attribute Selection**: Vector-based semantic search for relevant attributes
-- **Scalable**: Batch generation of multiple profiles
-- **Customizable**: Configurable attribute counts and generation parameters
+## ✨ What It Does
 
-## 📁 Project Structure
+| Stage | Description |
+|-------|-------------|
+| **1. Demographic anchor** | Age, gender, geographic location (GeoNames), occupation |
+| **2. Psychological anchor** | Personal values, life attitude, coping mechanisms |
+| **3. Narrative anchor** | Life story coherent with demographic + psychological core |
+| **4. Attribute selection** | Vector-based search over the taxonomy with multi-stage filtering |
+| **5. Value generation** | GPT fills each selected node conditioned on the evolving profile |
+
+The anchor-first design avoids majority-culture defaults; the **stochastic breadth-first selector** biases toward long-tail branches for diversity.
+
+---
+
+## 📁 Layout
 
 ```
 generate_user_profile/
-├── config.py              # API configuration and utility functions
-├── based_data.py          # Core data generation functions
-├── select_attributes.py   # Attribute selection using vector search
-├── generate_profile.py    # Main profile generation orchestrator
-├── output/                # Generated profiles output directory
-└── README.md             # This file
+├── config.py              # ⚙️  API client, keys, proxy, JSON helpers
+├── based_data.py          # 🧱  Demographic / psychological / narrative core
+├── select_attributes.py   # 🔍  Vector-search attribute selector
+├── generate_profile.py    # 🚀  Batch orchestrator + CLI
+└── output/                # 📂  Generated profiles
 ```
 
-## 🛠️ Installation
+---
 
-### Prerequisites
+## 🚀 Quick Start
 
-- Python 3.8+
-- OpenAI API key
-- Required Python packages
+### 1. Install
 
-### Setup
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/thzva/Deeppersona.git
-cd generate_user_profile
-```
-
-2. **Install dependencies**
 ```bash
 pip install openai sentence-transformers scikit-learn numpy tqdm geonamescache
 ```
 
-3. **Configure API keys**
+### 2. Configure
 
-Edit `config.py` and add your OpenAI API key:
+Edit [`config.py`](config.py):
+
 ```python
-OPENAI_API_KEY = "your-api-key-here"
+OPENAI_API_KEY = "sk-..."
 ```
 
-4. **Prepare data files**
+Data files expected (relative to this directory):
 
-Ensure the following data files are in the correct locations:
-- `../data/occupations_english.json` - List of occupations
-- Attribute database (JSON format)
-- Vector embeddings database (pickle format)
+| Path | Purpose |
+|------|---------|
+| `../data/occupations_english.json` | Occupation anchor list |
+| `../data/attributes_merged.json` | Taxonomy tree |
+| `../data/attribute_embeddings.pkl` | Sentence-transformer embeddings |
 
-## 💻 Usage
-
-### Basic Usage
-
-Generate a single user profile:
+### 3. Generate One Persona
 
 ```python
 from select_attributes import generate_user_profile, get_selected_attributes
 
-# Generate basic user information
-user_profile = generate_user_profile()
+user_profile = generate_user_profile()                         # anchor core
+selected     = get_selected_attributes(user_profile,
+                                       attribute_count=200)    # progressive sampling
 
-# Select relevant attributes
-selected_attributes = get_selected_attributes(user_profile, attribute_count=200)
-
-print(f"Generated profile: {user_profile}")
-print(f"Selected {len(selected_attributes)} attributes")
+print(user_profile)
+print(f"Selected {len(selected)} attributes")
 ```
 
-### Batch Generation
-
-Generate multiple profiles:
-
-```python
-from generate_profile import generate_profiles_batch
-
-# Generate 10 profiles
-generate_profiles_batch(num_profiles=10, attribute_count=200)
-```
-
-### Command Line Usage
+### 4. Batch via CLI
 
 ```bash
-# Generate profiles with custom parameters
 python generate_profile.py --num-profiles 50 --attribute-count 150
 ```
 
-## 📝 Module Descriptions
+---
+
+## 🧩 Modules
 
 ### `config.py`
-Configuration module managing API keys, proxy settings, and OpenAI client initialization. Includes utility functions for API calls and JSON response parsing.
+API client initialization, OpenAI key / proxy setup, robust JSON response parser.
 
 ### `based_data.py`
-Core data generation module containing functions for:
-- Age and demographic information generation
-- Career and occupation selection
-- Geographic location generation
-- Personal values and life attitude generation
-- Personal story creation
-- Interests and hobbies inference
+Anchor core generation:
+
+- Age & demographic sampling
+- Occupation selection (from `occupations_english.json`)
+- Geographic location (GeoNames-backed)
+- Personal values, life attitude, coping mechanisms
+- Narrative life story conditioned on the above
+- Interests & hobbies inference
 
 ### `select_attributes.py`
-Attribute selection system using:
-- Vector embeddings for semantic similarity
-- GPT for intelligent attribute filtering
-- Multi-stage selection process (near, mid, far neighbors)
-- Diversity-based filtering
+Attribute selection pipeline:
+
+- Sentence-transformer embeddings for semantic similarity
+- GPT-powered filtering for relevance
+- **Multi-stage neighborhood sampling** — near / mid / far to balance focus and diversity
+- Final diversity-aware filtering to trim redundant nodes
 
 ### `generate_profile.py`
-Main orchestration module for:
-- Batch profile generation
-- File management and output organization
-- Profile validation and quality checks
-- Summary generation
+Batch orchestration:
+
+- Parallel profile generation
+- Output file naming & incremental saving
+- Profile-level quality checks
+- Run summary
+
+---
+
+## 🔗 Related
+
+- 🌳 Upstream taxonomy construction — [`../process_attributes/`](../process_attributes/)
+- 📦 Dataset — [🤗 `THzva/deeppersona_dataset`](https://huggingface.co/datasets/THzva/deeppersona_dataset)
+- 🎮 HuggingFace demo — [🤗 `THzva/deeppersona-experience`](https://huggingface.co/spaces/THzva/deeppersona-experience)
+- 🌐 Persona simulator — [deeppersona-sim.zhou-yufan.com/interaction](https://deeppersona-sim.zhou-yufan.com/interaction/)

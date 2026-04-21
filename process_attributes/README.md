@@ -1,71 +1,88 @@
-# Attribute Processing Pipeline
+<h1 align="center">🌳 Taxonomy Processing Pipeline</h1>
 
-A comprehensive toolkit for processing, filtering, and organizing user attributes in a hierarchical structure using GPT and semantic similarity analysis.
+<p align="center">
+  <em>Stage 1 of DeepPersona — mine real user–ChatGPT dialogues into a 4,676-node human-attribute taxonomy.</em>
+</p>
 
-## 📋 Overview
+<p align="center">
+  <img src="https://img.shields.io/badge/python-≥3.8-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/taxonomy-4,676_nodes-06B6D4" alt="Taxonomy">
+  <img src="https://img.shields.io/badge/similarity_threshold-0.85-8B5CF6" alt="Threshold">
+  <img src="https://img.shields.io/badge/output-JSON_|_TXT-F59E0B" alt="Output">
+</p>
 
-This pipeline processes user attributes through multiple stages:
-1. **Extraction**: Extract personalized attributes from questions and reasons
-2. **Filtering**: Validate and filter attributes based on quality criteria
-3. **Merging**: Merge multiple attribute trees into a unified structure
-4. **Quality Check**: Validate leaf nodes using semantic similarity and GPT
-5. **Conversion**: Convert hierarchical structures to path notation (X.Y.Z format)
+This module is the **taxonomy construction pipeline**. It extracts personalized attributes from Q&A pairs, validates and merges them, runs dual-phase quality checks, and exports both hierarchical JSON and flat `X.Y.Z` paths.
 
-## 🚀 Features
+---
 
-- **Intelligent Extraction**: GPT powered attribute extraction from natural language
-- **Quality Validation**: Multi-level validation using both rule-based and AI-based checks
-- **Semantic Similarity**: Detect and remove similar attributes using sentence transformers
-- **Hierarchical Processing**: Maintain and validate parent-child relationships
-- **Tree Merging**: Combine multiple attribute sources into a unified taxonomy
-- **Flexible Output**: Support both nested JSON and flat path formats
-
-## 📁 Project Structure
+## 📁 Layout
 
 ```
 process_attributes/
-├── extract_personalized_attributes.py   # Extract attributes from questions
-├── filter_personalized_attributes.py    # Filter and validate attributes
-├── merge_tree.py                        # Merge multiple attribute trees
-├── check_leaves.py                      # Validate leaf nodes quality
-├── convert_to_X.Y.Z.py                  # Convert to path notation
-├── process_attributes.py                # Utility for deduplication
-└── README.md                            # This file
+├── extract_personalized_attributes.py   # 1️⃣ Extract attrs from Q&A
+├── filter_personalized_attributes.py    # 2️⃣ Validate top-level + leaf quality
+├── merge_tree.py                        # 3️⃣ Merge multi-source trees
+├── check_leaves.py                      # 4️⃣ Semantic + GPT leaf validation
+├── convert_to_X.Y.Z.py                  # 5️⃣ Flat path / tree visualization
+├── process_attributes.py                # 🧹 Deduplication utility
+└── template.json                        # 📐 Reference taxonomy skeleton
 ```
 
-## 🛠️ Installation
+---
 
-### Prerequisites
+## 🔄 Pipeline
 
-- Python 3.8+
-- OpenAI API key
-- Required Python packages
-
-### Setup
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/thzva/Deeppersona.git
-cd process_attributes
+```
+┌────────────────────────────────────────────┐
+│  1. Extract Attributes                      │
+│     Q&A + reason → X.Y.Z paths              │
+└─────────────────────┬──────────────────────┘
+                      ▼
+┌────────────────────────────────────────────┐
+│  2. Filter Attributes                       │
+│     Top-level + last-segment validation     │
+└─────────────────────┬──────────────────────┘
+                      ▼
+┌────────────────────────────────────────────┐
+│  3. Merge Trees                             │
+│     Combine + resolve conflicts             │
+└─────────────────────┬──────────────────────┘
+                      ▼
+┌────────────────────────────────────────────┐
+│  4. Leaf Quality Check                      │
+│     Phase A: semantic similarity            │
+│     Phase B: GPT-4 validation               │
+└─────────────────────┬──────────────────────┘
+                      ▼
+┌────────────────────────────────────────────┐
+│  5. Convert & Export                        │
+│     Hierarchical JSON · X.Y.Z · tree TXT    │
+└────────────────────────────────────────────┘
 ```
 
-2. **Install dependencies**
+---
+
+## 🚀 Quick Start
+
+### Install
+
 ```bash
 pip install openai sentence-transformers scikit-learn numpy tqdm
 ```
 
-3. **Configure API keys**
+### Configure
 
-Update the `OPENAI_API_KEY` in each script:
+Set your API key in each script (or centralize via env var):
+
 ```python
-OPENAI_API_KEY = "your-api-key-here"
+OPENAI_API_KEY = "sk-..."
 ```
 
-## 💻 Usage
+---
 
-### 1. Extract Personalized Attributes
+## 🧩 Stages
 
-Extract attributes from questions and personalization reasons:
+### 1️⃣ Extract Personalized Attributes
 
 ```python
 from extract_personalized_attributes import PersonalizedAttributeExtractor
@@ -73,142 +90,86 @@ from extract_personalized_attributes import PersonalizedAttributeExtractor
 extractor = PersonalizedAttributeExtractor()
 result = extractor.extract_attributes(
     question="What are some good restaurants nearby?",
-    reason="User's location and food preferences affect recommendations"
+    reason="User's location and food preferences affect recommendations",
 )
-print(result['attributes'])
-# Output: ['Location.Current Location.City', 'Preferences.Food.Cuisine Type', ...]
+print(result["attributes"])
+# ['Location.Current Location.City', 'Preferences.Food.Cuisine Type', ...]
 ```
 
-**Key Features:**
-- Extracts attributes in X.Y.Z format (3-level hierarchy)
+- `X.Y.Z` format (3-level hierarchy)
 - Validates against predefined top-level categories
-- Handles markdown-formatted JSON responses
+- Tolerant to markdown-wrapped JSON responses
 
-### 2. Filter and Validate Attributes
-
-Filter attributes based on quality criteria:
+### 2️⃣ Filter & Validate
 
 ```python
 from filter_personalized_attributes import PersonalizedAttributeAnalyzer
 
 analyzer = PersonalizedAttributeAnalyzer()
-# Validates top-level categories
-# Checks if last segment is a general category (not specific instance)
-# Ensures attributes meet quality standards
 ```
 
-**Validation Rules:**
-- ✅ General categories (e.g., 'Skills', 'Preferences', 'Background')
-- ✅ Broad aspects (e.g., 'Style', 'Pattern', 'Approach')
-- ❌ Specific instances (e.g., 'Python', 'Google', 'New York')
-- ❌ Concrete values (e.g., '5 years', 'Level 3')
+| Rule | Keep | Drop |
+|------|------|------|
+| General categories | ✅ `Skills`, `Preferences`, `Background` | ❌ — |
+| Broad aspects | ✅ `Style`, `Pattern`, `Approach` | ❌ — |
+| Specific instances | ❌ | `Python`, `Google`, `New York` |
+| Concrete values | ❌ | `5 years`, `Level 3` |
 
-### 3. Merge Attribute Trees
-
-Combine multiple attribute sources:
+### 3️⃣ Merge Trees
 
 ```python
 from merge_tree import merge_trees
 
-# Merge multiple JSON files
-merged_tree = merge_trees([tree1, tree2, tree3])
+merged = merge_trees([tree1, tree2, tree3])
 ```
 
-**Features:**
-- Preserves hierarchical structure
-- Handles conflicts intelligently
-- Maintains consistent ordering
-- Generates timestamped outputs
+Preserves hierarchy, resolves overlaps, maintains stable ordering, writes timestamped outputs.
 
-### 4. Check Leaf Node Quality
-
-Validate leaf nodes using semantic similarity and GPT-4:
+### 4️⃣ Leaf Quality Check
 
 ```python
 from check_leaves import PathFilter
 
-filter = PathFilter()
-filtered_data = filter.filter_tree(data)
+pf = PathFilter()
+clean = pf.filter_tree(data)
 ```
 
-**Two-Phase Filtering:**
+**Phase A — Similarity**
+- Group paths by top-level category
+- Embed with `all-MiniLM-L6-v2`
+- Drop intra-category duplicates (cosine ≥ 0.85)
 
-**Phase 1: Similarity Check**
-- Groups paths by first-level category
-- Uses sentence transformers (all-MiniLM-L6-v2)
-- Removes similar paths within same category (threshold: 0.85)
-
-**Phase 2: Quality Validation**
-- Validates leaf node quality using GPT
+**Phase B — Quality**
+- GPT-4 validates leaf node semantics
 - Checks parent-child compatibility
-- Ensures attributes are user-centric and general
+- Enforces user-centric, general phrasing
 
-### 5. Convert to Path Notation
-
-Convert hierarchical structure to flat path list:
+### 5️⃣ Convert to Path Notation
 
 ```python
 from convert_to_X.Y.Z import extract_paths, generate_tree_text
 
-# Extract all paths
 paths = extract_paths(data)
-# Output: ['user_preferences.food.cuisine_type', 'location.current.city', ...]
+# ['user_preferences.food.cuisine_type', 'location.current.city', ...]
 
-# Generate tree visualization
-tree_text = generate_tree_text(parent_child_map)
+tree = generate_tree_text(parent_child_map)   # ASCII tree
 ```
 
-**Output Formats:**
-- JSON: List of paths in X.Y.Z format
-- TXT: Tree visualization with indentation
+**Output formats**
+- `paths.json` — flat `X.Y.Z` strings
+- `tree.txt` — indented tree visualization
 
-### 6. Deduplicate Attributes
+### 🧹 Deduplicate
 
-Remove duplicate attributes and sort:
-
-```python
-# Using process_attributes.py
+```bash
 python process_attributes.py
 ```
 
-## 📊 Processing Pipeline
+---
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  1. Extract Attributes                                       │
-│     - Parse questions and reasons                           │
-│     - Generate X.Y.Z format attributes                      │
-└────────────────┬────────────────────────────────────────────┘
-                 │
-                 ▼
-┌─────────────────────────────────────────────────────────────┐
-│  2. Filter Attributes                                        │
-│     - Validate top-level categories                         │
-│     - Check last segment quality                            │
-│     - Remove invalid attributes                             │
-└────────────────┬────────────────────────────────────────────┘
-                 │
-                 ▼
-┌─────────────────────────────────────────────────────────────┐
-│  3. Merge Trees                                              │
-│     - Combine multiple sources                              │
-│     - Resolve conflicts                                     │
-│     - Build unified taxonomy                                │
-└────────────────┬────────────────────────────────────────────┘
-                 │
-                 ▼
-┌─────────────────────────────────────────────────────────────┐
-│  4. Check Leaf Quality                                       │
-│     - Phase 1: Semantic similarity check                    │
-│     - Phase 2: GPT-4 quality validation                     │
-│     - Remove low-quality nodes                              │
-└────────────────┬────────────────────────────────────────────┘
-                 │
-                 ▼
-┌─────────────────────────────────────────────────────────────┐
-│  5. Convert & Export                                         │
-│     - Generate path notation                                │
-│     - Create tree visualization                             │
-│     - Export to JSON/TXT                                    │
-└─────────────────────────────────────────────────────────────┘
-```
+## 🔗 Related
+
+- 🧬 Downstream persona generation — [`../generate_user_profile/`](../generate_user_profile/)
+- 📦 Dataset — [🤗 `THzva/deeppersona_dataset`](https://huggingface.co/datasets/THzva/deeppersona_dataset)
+- 🎮 HuggingFace demo — [🤗 `THzva/deeppersona-experience`](https://huggingface.co/spaces/THzva/deeppersona-experience)
+- 🌐 Persona simulator — [deeppersona-sim.zhou-yufan.com/interaction](https://deeppersona-sim.zhou-yufan.com/interaction/)
