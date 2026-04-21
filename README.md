@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-≥3.8-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/taxonomy-4,676_nodes-06B6D4" alt="Taxonomy">
+  <img src="https://img.shields.io/badge/taxonomy-8,000+_attributes-06B6D4" alt="Taxonomy">
   <img src="https://img.shields.io/badge/attributes-200+_per_profile-10B981" alt="Attributes">
   <img src="https://img.shields.io/badge/narrative-~1MB_per_persona-8B5CF6" alt="Narrative">
   <img src="https://img.shields.io/badge/coverage-+32%25_diversity-F59E0B" alt="Diversity">
@@ -44,7 +44,7 @@
 <h3>🌳 Deep Taxonomy</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/4,676_Nodes-06B6D4?style=for-the-badge" alt="Taxonomy" />
+  <img src="https://img.shields.io/badge/8,000+_Attributes-06B6D4?style=for-the-badge" alt="Taxonomy" />
 </div>
 
 <p align="center"><strong>• Mined from real user–ChatGPT dialogues</strong></p>
@@ -102,7 +102,7 @@ Simulating human profiles by instilling personas into large language models (LLM
 
 **DeepPersona** addresses this with a two-stage, taxonomy-guided approach:
 
-1. **Stage 1 — Human-Attribute Taxonomy.** We mine 3,000 real user–ChatGPT dialogues, extract fine-grained attributes with GPT-4o, and merge semantically similar branches into **4,676 hierarchically-organized nodes** across 12 categories (Demographics, Health, Core Values, …).
+1. **Stage 1 — Human-Attribute Taxonomy.** We mine 3,000 real user–ChatGPT dialogues, extract fine-grained attributes with GPT-4o, and merge semantically similar branches into a **hierarchical structure** across 12 top-level categories (Demographics, Health, Core Values, …), resulting in a taxonomy with **8,000+ human attributes**.
 2. **Stage 2 — Progressive Attribute Sampling.** Starting from a stable anchor core (age, location, career, values, …), the selector performs stochastic breadth-first traversal of the taxonomy — biased toward long-tail branches — while the LLM fills each node conditioned on the evolving profile to preserve global coherence.
 
 <p align="center">
@@ -204,7 +204,7 @@ flowchart LR
     E --> F[Filter &<br/>Validate]
     F --> M[Merge<br/>Trees]
     M --> Q[Leaf Quality<br/>Check]
-    Q --> T[(Taxonomy<br/>4,676 nodes)]
+    Q --> T[(Taxonomy<br/>8,000+ attrs)]
     T --> S[Attribute<br/>Selector]
     A[Anchor<br/>Core] --> S
     S --> L[LLM<br/>Value Generation]
@@ -222,7 +222,7 @@ Full documentation: [`generate_user_profile/README.md`](generate_user_profile/RE
 | **Demographic Core** | Age, gender, location (via GeoNames), occupation |
 | **Psychological Core** | Personal values, life attitude, coping mechanisms |
 | **Story Generation** | Coherent life narrative anchored on the core |
-| **Attribute Selection** | Vector search + GPT filtering over 4,676-node taxonomy |
+| **Attribute Selection** | Vector search + GPT filtering over the 8,000+ attribute taxonomy |
 | **Multi-Stage Sampling** | Near / mid / far neighbors → diversity-aware filter |
 
 ## 🌳 Taxonomy Processing

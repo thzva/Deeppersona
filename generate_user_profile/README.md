@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/output-JSON-F59E0B" alt="Output">
 </p>
 
-This module is the **persona generation engine**. Given the 4,676-node taxonomy from [`process_attributes/`](../process_attributes/), it anchors a demographic and psychological core, then progressively samples attributes while the LLM fills each node conditioned on the evolving profile.
+This module is the **persona generation engine**. Given the hierarchical 8,000+ attribute taxonomy from [`process_attributes/`](../process_attributes/), it anchors a demographic and psychological core, then progressively samples attributes while the LLM fills each node conditioned on the evolving profile.
 
 ---
 

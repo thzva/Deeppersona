@@ -1,12 +1,12 @@
 <h1 align="center">🌳 Taxonomy Processing Pipeline</h1>
 
 <p align="center">
-  <em>Stage 1 of DeepPersona — mine real user–ChatGPT dialogues into a 4,676-node human-attribute taxonomy.</em>
+  <em>Stage 1 of DeepPersona — mine real user–ChatGPT dialogues into a hierarchical human-attribute taxonomy with 8,000+ attributes.</em>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-≥3.8-blue?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/taxonomy-4,676_nodes-06B6D4" alt="Taxonomy">
+  <img src="https://img.shields.io/badge/taxonomy-8,000+_attributes-06B6D4" alt="Taxonomy">
   <img src="https://img.shields.io/badge/similarity_threshold-0.85-8B5CF6" alt="Threshold">
   <img src="https://img.shields.io/badge/output-JSON_|_TXT-F59E0B" alt="Output">
 </p>
