@@ -115,73 +115,41 @@ def generate_career_info(age: int) -> Dict[str, str]:
     career_status = random.choice(occupations)
     return {"status": career_status}
 
-# def generate_location() -> Dict[str, str]:
-#     """生成真实的地理位置信息。
-
-#     使用 GeoNames 数据库随机选择一个国家和城市。
-
-#     Returns:
-#         Dict[str, str]: 包含以下字段的字典：
-#             - country: 国家名称
-#             - city: 城市名称
-#     """
-#     gc = GeonamesCache()
-
-#     # 获取所有国家
-#     countries = gc.get_countries()
-#     country_code = random.choice(list(countries.keys()))
-#     country = countries[country_code]
-
-#     # 获取选国家的所有城市
-#     cities = gc.get_cities()
-#     country_cities = [city for city in cities.values() if city['countrycode'] == country_code]
-
-#     if not country_cities:
-#         return {
-#             "country": country['name'],
-#             "city": "Unknown City"
-#         }
-
-#     # 随机选择一个城市
-#     city_data = random.choice(country_cities)
-
-#     return {
-#         "country": country['name'],
-#         "city": city_data['name']
-#     }
-
-
 def generate_location() -> Dict[str, str]:
-    """
-    生成印度随机城市的地理位置信息。
+    """生成真实的地理位置信息。
 
-    Returns
-    -------
-    Dict[str, str]
-        - country : 始终为 "India"
-        - city    : 随机城市名
+    使用 GeoNames 数据库随机选择一个国家和城市。
+
+    Returns:
+        Dict[str, str]: 包含以下字段的字典：
+            - country: 国家名称
+            - city: 城市名称
     """
     gc = GeonamesCache()
 
-    # ---- 固定国家为印度 ----
-    country_code = "IN"
+    # 获取所有国家
     countries = gc.get_countries()
-    country     = countries[country_code]
+    country_code = random.choice(list(countries.keys()))
+    country = countries[country_code]
 
-    # ---- 过滤出印度的所有城市 ----
-    cities         = gc.get_cities()
-    in_cities_list = [
-        city for city in cities.values()
-        if city["countrycode"] == country_code
-    ]
+    # 获取选国家的所有城市
+    cities = gc.get_cities()
+    country_cities = [city for city in cities.values() if city['countrycode'] == country_code]
 
-    # ---- 若意外无数据，兼底处理 ----
-    if not in_cities_list:
-        return {"country": country["name"], "city": "Mumbai"}
+    if not country_cities:
+        return {
+            "country": country['name'],
+            "city": "Unknown City"
+        }
 
-    # ---- 随机选择一个城市 ----
-    city_data = random.choice(in_cities_list)
-    return {"country": country["name"], "city": city_data["name"]}
+    # 随机选择一个城市
+    city_data = random.choice(country_cities)
+
+    return {
+        "country": country['name'],
+        "city": city_data['name']
+    }
+
 
 
 def generate_gender() -> str:

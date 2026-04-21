@@ -111,7 +111,7 @@ def generate_tree_text(parent_child_map):
 
 def main():
     # 指定输入输出文件路径
-    input_file = "/home/zhou/persona/src/process_attributes_test/2.24/outputs/run_20250326_125810/attributes_merged.json"   
+    input_file = "PATH"   
     output_json = os.path.join(os.path.dirname(input_file), "X.Y.Z_3.6.json")
     output_txt = os.path.join(os.path.dirname(input_file), "X.Y.Z_3.6.txt")
     
