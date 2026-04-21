@@ -124,5 +124,4 @@ Batch orchestration:
 
 - 🌳 Upstream taxonomy construction — [`../process_attributes/`](../process_attributes/)
 - 📦 Dataset — [🤗 `THzva/deeppersona_dataset`](https://huggingface.co/datasets/THzva/deeppersona_dataset)
-- 🎮 HuggingFace demo — [🤗 `THzva/deeppersona-experience`](https://huggingface.co/spaces/THzva/deeppersona-experience)
 - 🌐 Persona simulator — [deeppersona-sim.zhou-yufan.com/interaction](https://deeppersona-sim.zhou-yufan.com/interaction/)

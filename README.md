@@ -14,8 +14,7 @@
   <a href="https://arxiv.org/abs/2511.07338"><img src="https://img.shields.io/badge/arXiv-2511.07338-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv"></a>
   <a href="https://thzva.github.io/deeppersona.github.io/"><img src="https://img.shields.io/badge/Project-Homepage-4F46E5?style=for-the-badge&logo=githubpages&logoColor=white" alt="Homepage"></a>
   <a href="https://huggingface.co/datasets/THzva/deeppersona_dataset"><img src="https://img.shields.io/badge/🤗_Dataset-DeepPersona-FFD21E?style=for-the-badge" alt="Dataset"></a>
-  <a href="https://huggingface.co/spaces/THzva/deeppersona-experience"><img src="https://img.shields.io/badge/🤗_Demo-Try_Now-FF6F61?style=for-the-badge" alt="Demo"></a>
-  <a href="https://deeppersona-sim.zhou-yufan.com/interaction/"><img src="https://img.shields.io/badge/🌐_Simulator-Interact-0EA5E9?style=for-the-badge" alt="Simulator"></a>
+  <a href="https://deeppersona-sim.zhou-yufan.com/interaction/"><img src="https://img.shields.io/badge/🌐_Demo-Try_Now-FF6F61?style=for-the-badge" alt="Demo"></a>
   <a href="#-license"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"></a>
 </p>
 
@@ -161,16 +160,12 @@ python generate_user_profile/generate_profile.py \
 ### 5. Try It Live
 
 <p align="center">
-  <a href="https://huggingface.co/spaces/THzva/deeppersona-experience">
-    <img src="https://img.shields.io/badge/🚀_HuggingFace_Demo-667EEA?style=for-the-badge" alt="HuggingFace Demo" height="50">
-  </a>
-  &nbsp;
   <a href="https://deeppersona-sim.zhou-yufan.com/interaction/">
-    <img src="https://img.shields.io/badge/🌐_Persona_Simulator-0EA5E9?style=for-the-badge" alt="Persona Simulator" height="50">
+    <img src="https://img.shields.io/badge/🚀_Launch_Persona_Simulator-0EA5E9?style=for-the-badge" alt="Persona Simulator" height="50">
   </a>
 </p>
 
-> **Two ways to play** — Generate fresh personas in the 🤗 HuggingFace demo, or chat with pre-built personas in the interactive simulator.
+> Chat with pre-built DeepPersona profiles in the interactive simulator.
 
 ---
 
@@ -297,7 +292,6 @@ Across six countries and four distance metrics (KS, Wasserstein, JS Divergence, 
 ## 📚 Dataset & Demo
 
 - 📦 **Dataset** — [🤗 `THzva/deeppersona_dataset`](https://huggingface.co/datasets/THzva/deeppersona_dataset) — thousands of diverse, narrative-complete personas.
-- 🎮 **HuggingFace Demo** — [🤗 `THzva/deeppersona-experience`](https://huggingface.co/spaces/THzva/deeppersona-experience) — generate new personas in your browser.
 - 🌐 **Persona Simulator** — [deeppersona-sim.zhou-yufan.com/interaction](https://deeppersona-sim.zhou-yufan.com/interaction/) — interactively chat with pre-built personas.
 - 🏠 **Project Homepage** — [thzva.github.io/deeppersona.github.io](https://thzva.github.io/deeppersona.github.io/) — paper, figures, BibTeX.
 
