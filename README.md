@@ -255,9 +255,9 @@ We benchmark DeepPersona on three axes — that profiles are **deep, distinct, a
 
 | Metric | PersonaHub | OpenCharacter | **DeepPersona** |
 |--------|-----------:|--------------:|----------------:|
-| Mean # attributes | — | — | **50.92** |
-| Uniqueness | — | — | **4.12** |
-| Actionability | — | — | **5.00** |
+| Mean # attributes | 3.98 | 38.50 | **50.92** |
+| Uniqueness | 2.50 | 2.86 | **4.12** |
+| Actionability | 3.60 | 4.78 | **5.00** |
 
 ### Personalization (LLM Q&A)
 
